@@ -1,8 +1,8 @@
 # PrepAlert – Privacy Policy / Privacybeleid
 
 **Last updated / Laatst bijgewerkt:** 31 maart 2025  
-**Developer / Ontwikkelaar:** [Jouw naam]  
-**Contact:** [jouw e-mailadres]
+**Developer / Ontwikkelaar:** Michael Stuut
+**Contact:** Michaelstuut@gmail.com
 
 ---
 
